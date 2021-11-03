@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 #import data file (can use pandas for .csv files)
-from histogramData import tempData #import data file from
+from histogramData import tempData #import data file (tempData is temperatures in Fahrenheit)
 
 #initialize list for celsius temperatures
 tempC=[]
